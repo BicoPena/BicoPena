@@ -1,12 +1,29 @@
-### Oi eu sou  Jean Dias, artista e estudante de programação.
+<div align="center"><h1>Oi eu sou  Jean Dias, artista e estudante de programação.</h1></div>
 
 <div align="center">
   <a href="https://github.com/jeanFerreiraDias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanFerreiraDias&show_icons=true&theme=dark&icon_color=ffffff&bg_color=00000000&hide_border=true&&locale=pt-br&include_all_commits=true&count_private=true"/>
-    
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://instagram.fbhz1-1.fna.fbcdn.net/v/t51.2885-15/272117814_5375619142466082_2561393056229342436_n.webp?stp=dst-jpg_e35_p480x480&_nc_ht=instagram.fbhz1-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=ICz6KbigEG8AX_rtqNK&tn=Q0kt14ebrQQnZCnh&edm=ANmP7GQBAAAA&ccb=7-5&ig_cache_key=Mjc1NDA5NzI4MTUxNjg3NTk3OA%3D%3D.2-ccb7-5&oh=00_AfAEifOBN-s2wh_RmK4GBz83d4H7ScCxsRU2cYIchFC75Q&oe=63C0AA0C&_nc_sid=276363">
+<img align="right" alt="feiticeira" height="180em" style="border-radius: 50px" src="https://cdn.discordapp.com/attachments/856747793744658435/1062766789353820221/36-Feiticeira.png">
+  
+  <div><br>
+  <img align="left" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  
 </div>
-<!--
+
+##
+ <!--
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
 **jeanFerreiraDias/jeanFerreiraDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
