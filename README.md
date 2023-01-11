@@ -1,4 +1,6 @@
-### Hi there 👋
+### Oi eu sou  Jean Dias, artista e estudante de programação.
+
+<style></style>
 
 <!--
 **jeanFerreiraDias/jeanFerreiraDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
