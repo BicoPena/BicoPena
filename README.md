@@ -3,7 +3,9 @@
 <div align="center">
   <a href="https://github.com/jeanFerreiraDias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanFerreiraDias&show_icons=true&theme=dark&icon_color=ffffff&bg_color=00000000&hide_border=true&&locale=pt-br&include_all_commits=true&count_private=true"/>
-
+    
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://instagram.fbhz1-1.fna.fbcdn.net/v/t51.2885-15/272117814_5375619142466082_2561393056229342436_n.webp?stp=dst-jpg_e35_p480x480&_nc_ht=instagram.fbhz1-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=ICz6KbigEG8AX_rtqNK&tn=Q0kt14ebrQQnZCnh&edm=ANmP7GQBAAAA&ccb=7-5&ig_cache_key=Mjc1NDA5NzI4MTUxNjg3NTk3OA%3D%3D.2-ccb7-5&oh=00_AfAEifOBN-s2wh_RmK4GBz83d4H7ScCxsRU2cYIchFC75Q&oe=63C0AA0C&_nc_sid=276363">
+</div>
 <!--
 **jeanFerreiraDias/jeanFerreiraDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
