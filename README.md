@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/jeanFerreiraDias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanFerreiraDias&show_icons=true&theme=dark&bg_color=00000000&include_all_commits=true&count_private=true"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanFerreiraDias&show_icons=true&theme=dark&icon_color=ffffff&bg_color=00000000&hide_border=true&&locale=pt-br&include_all_commits=true&count_private=true"/>
+
 <!--
 **jeanFerreiraDias/jeanFerreiraDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
