@@ -2,11 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/jeanFerreiraDias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanFerreiraDias&show_icons=true&theme=dark&icon_color=ffffff&bg_color=00000000&hide_border=true&&locale=pt-br&include_all_commits=true&count_private=true"/>
-<img align="right" alt="feiticeira" height="180em" style="border-radius: 50px" src="https://cdn.discordapp.com/attachments/856747793744658435/1062766789353820221/36-Feiticeira.png">
-  
   <div><br>
   <img align="left" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    
   <img align="left" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   
