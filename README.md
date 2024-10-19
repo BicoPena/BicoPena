@@ -13,6 +13,6 @@
 <div style="display: inline-block;" align="center">
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanFD&theme=dark&hide_border=true" alt="JeanFD"/>
- <img src="https://github-readme-stats.vercel.app/api?username=JeanFD&show_icons=true&hide_border=true&count_private=true&theme=dark"/>
+ <!--<img src="https://github-readme-stats.vercel.app/api?username=JeanFD&show_icons=true&hide_border=true&count_private=true&theme=dark"/> -->
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanFD&&langs_count=12&count_private=true&layout=compact&hide=Jupyter%20Notebook&theme=dark&hide_border=true"/>
 </div>
