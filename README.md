@@ -1,4 +1,4 @@
-<div align="center"><h1>Desenvolvedor e artista</h1></div>
+<div align="center"><h1>💻Desenvolvedor e Artista🖌️</h1></div>
 
  <p align="center">Olá, meu nome é Jean Ferreira Dias. Graduando em Ciência da Computação e Técnico em Informática pelo IFSULDEMINAS.</p>
 <!-- Redes Sociais -->
