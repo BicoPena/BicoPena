@@ -1,5 +1,6 @@
-<div align="center"><h1>Oi eu sou  Jean Dias, artista e estudante de programação.</h1></div>
+<div align="center"><h1>Desenvolvedor e artista</h1></div>
 
+ <p>Olá, meu nome é Jean Ferreira Dias. Graduando em Ciência da Computação e Técnico em Informática pelo IFSULDEMINAS.</p>
 <!-- Redes Sociais -->
 <div style="display: inline-block;" align="center"> 
   <a href="mailto:diasjeanferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
