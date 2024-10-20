@@ -10,7 +10,7 @@
 <br>
 
 <!-- Estatísticas do GitHub -->
-<div style="display: block;" align="center">
+<div style="display: block; background-color: black" align="center">
 
  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanFD&theme=dark&hide_border=true" alt="JeanFD"/>
  <img src="https://github-readme-stats.vercel.app/api?username=JeanFD&show_icons=true&hide_border=true&count_private=true&theme=dark"/> -->
