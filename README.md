@@ -14,7 +14,7 @@
  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanFD&theme=dark&hide_border=true" alt="JeanFD"/>
  <img src="https://github-readme-stats.vercel.app/api?username=JeanFD&show_icons=true&hide_border=true&count_private=true&theme=dark"/> -->
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanFD&&langs_count=12&count_private=true&layout=compact&hide=Jupyter%20Notebook&theme=transparent&hide_border=true"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanFD&&langs_count=12&count_private=true&layout=compact&hide=Jupyter%20Notebook&theme=transparent&hide_border=true&hide_title=true&display_format=false"/>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHM1cHZiazZvdDFlbHNjaWh1NDVmMzg5cjRxdHJ3bjZ6ZGV2ZzNiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ao9DUiTKH60XS/giphy.webp" width="140">
 </div>
 
